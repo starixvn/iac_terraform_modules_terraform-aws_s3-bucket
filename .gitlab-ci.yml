@@ -1,0 +1,5 @@
+---
+include:
+  - project: "iac/terraform/core-ci"
+    ref: cloud
+    file: "build/.tf-module-aws-gitlab-ci.yml"
