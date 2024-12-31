@@ -2,6 +2,8 @@
 
 Terraform module which creates S3 bucket on AWS with all (or almost all) features provided by Terraform AWS provider.
 
+Origin Module Addr: https://github.com/terraform-aws-modules/terraform-aws-s3-bucket
+
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 These features of S3 bucket configurations are supported:
